@@ -74,6 +74,8 @@ To install for all users on Unix/Linux::
   python setup.py build
   sudo python setup.py install
 
+You can refer to details of a way using package management software and installation method every each OS from the following link.
+http://scikit-learn.org/dev/install.html
 
 Development
 ===========
